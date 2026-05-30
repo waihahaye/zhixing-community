@@ -57,7 +57,7 @@ xunfei:
 
 deepseek:
   apiHost: https://api.deepseek.com
-  apiKey: sk-6cb239c343434482a1f3ab4cbf309ceb
+  apiKey: sk-6cb23309ceb
   timeout: 900 # 超时时间，单位秒
 
 doubao:
